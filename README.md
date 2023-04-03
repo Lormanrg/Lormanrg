@@ -31,7 +31,27 @@
   📫 How to reach me: <a href="mailto: lormanrg@gmail.com">lormanrg@gmail.com</a>
 </p>
 
+<p align="center">
+  Hola, soy Lorman Romero, Ingeniero Químico & Full Stack Software Developer de Venezuela
+  <br>
+  <br>
+  🔬Actualmente soy un curioso aprendiz de todos los lenguajes de programación disponibles.
+  <br>
+  🎓 Recientemente he obtenido mi certificado como Full Stack Developer en la academia 4Geeks.
+  <br>
+  🎓  Graduado de Ingeniero Químico en la Universidad del Zulia.
+  <br>
+  💻 Me encanta escribir código y aprender cualquier cosa sobre él.
+  <br>
+  📚 Actualmente desarrollando un E-Commerce Website.
+  <br>
+  💬 Pregunta cualquier duda sobre mi: <a href="https://github.com/Lormanrg" title="Issues">Here</a>
+  <br>
+  📫 Como contactarme: <a href="mailto: lormanrg@gmail.com">lormanrg@gmail.com</a>
+</p>
+
 <hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
